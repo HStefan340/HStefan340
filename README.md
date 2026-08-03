@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student at **ULBS** — Sibiu, Romania
-- 💡 Interested in **web development, low-level & OOP programming, and building tools that actually run**
+- 💡 Interested in **web development, OOP programming, and building tools that actually run**
 - 🎮 I mix coding with gaming — like my **CS2 helper** and a **low-level chess game with an AI opponent**
 - 📫 Reach me on the socials down below
 
@@ -27,18 +27,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HStefan340&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HStefan340&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
