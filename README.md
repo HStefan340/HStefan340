@@ -1,9 +1,6 @@
 <div align="center">
 
-# Hi there 👋, my name is Stefan
-
-### Welcome to my profile ⚡  
-### Currently studying Computer Science at ULBS 🔭
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+there%2C+I'm+%5BSTEFAN%5D+%F0%9F%91%8B;20+years+old+%F0%9F%8C%B1;Computer+Science+Student+%F0%9F%93%9A;Welcome+to+my+profile+%F0%9F%8C%8E" alt="Typing SVG" />
 
 </div>
 
@@ -13,8 +10,7 @@
 
 - 🎓 Computer Science student at **ULBS** — Sibiu, Romania
 - 💡 Interested in **web development, low-level & OOP programming, and building tools that actually run**
-- 🎮 I mix coding with gaming — like my **CS2 grenade-lineup helper** and a **low-level chess game with an AI opponent**
-- 📺 I also stream on **Kick** as `stefan340`
+- 🎮 I mix coding with gaming — like my **CS2 helper** and a **low-level chess game with an AI opponent**
 - 📫 Reach me on the socials down below
 
 ---
