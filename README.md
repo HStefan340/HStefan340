@@ -10,7 +10,7 @@
 
 - 🎓 Computer Science student at **ULBS** — Sibiu, Romania
 - 💡 Interested in **web development, OOP programming, and building tools that actually run**
-- 🎮 I mix coding with gaming — like my **CS2 helper** and a **low-level chess game with an AI opponent**
+- 🎮 I mix coding with gaming — like my **CS2 helper** and a **chess game with an AI opponent**
 - 📫 Reach me on the socials down below
 
 ---
